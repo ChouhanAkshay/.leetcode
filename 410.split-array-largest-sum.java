@@ -5,6 +5,9 @@
  */
 
 // @lc code=start
+
+import java.util.ArrayList;
+
 class Solution {
     public int splitArray(int[] nums, int k) {
         int low = 0;
